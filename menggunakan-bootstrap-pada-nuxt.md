@@ -1,6 +1,15 @@
 ## Menggunakan bootstrap5 pada Nuxt3
-1. Install boostrap
-   ** npm i bootstrap **
+#### Install boostrap
+   npm i bootstrap 
+#### Konfigurasi depedensi
+{
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.13"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
 
 
 
